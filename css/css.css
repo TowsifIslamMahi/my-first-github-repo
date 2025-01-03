@@ -19,3 +19,9 @@
     font-weight: bold;
     font-size: 50px;
 }
+
+ol li{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
