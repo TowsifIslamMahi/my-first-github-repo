@@ -1,0 +1,21 @@
+.blog{
+    /* color: red; */
+    font-family: sans-serif;
+    font-size: 30px;
+    /* background-color: yellow; */
+    border-radius: 5px;
+    padding: 2px;
+}
+
+/* .h2{
+    font-size: large;
+    font-weight: bold;
+    color: red;
+    color: red;
+} */
+
+.blog h2{
+    color: red;
+    font-weight: bold;
+    font-size: 50px;
+}
